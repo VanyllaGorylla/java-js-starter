@@ -1,0 +1,11 @@
+node_modules
+dist
+production_dist
+coverage
+.sonar
+bin
+.project
+target
+.settings
+frontend.iml
+
